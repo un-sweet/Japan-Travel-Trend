@@ -8,4 +8,4 @@ The analysis will use the Japan travel discussion board on Taiwan's PTT, similar
 - **Classify Content:** Use supervised classification methods like Random Forest and Naive Bayes to categorize text about tourist attractions and evaluate the models' performance.
 - **Apply STM:** Implement the Structural Topic Model (STM) to categorize travel experiences based on geographical regions or other criteria.
 
-For detailed information, please refer to the [RESEARCH PROJECT](#research-project) section.
+For detailed information, please refer to the [RESEARCH REPORT](#research-report) section.
